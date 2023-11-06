@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tianze-Yin/static/css/main.7fba2774.css",
+    "main.js": "/Tianze-Yin/static/js/main.09c0bdc9.js",
+    "static/media/PicofTianze.jpg": "/Tianze-Yin/static/media/PicofTianze.db5eeb5fd36b4b747939.jpg",
+    "static/media/JetEngine.avif": "/Tianze-Yin/static/media/JetEngine.ff30adcd924883f015dd.avif",
+    "static/media/CV(example).docx": "/Tianze-Yin/static/media/CV(example).77fe62d1fdbdf2ea3846.docx",
+    "index.html": "/Tianze-Yin/index.html",
+    "main.7fba2774.css.map": "/Tianze-Yin/static/css/main.7fba2774.css.map",
+    "main.09c0bdc9.js.map": "/Tianze-Yin/static/js/main.09c0bdc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fba2774.css",
+    "static/js/main.09c0bdc9.js"
+  ]
+}

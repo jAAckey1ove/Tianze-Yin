@@ -99,7 +99,7 @@ const Experience = () => {
             <article className = 'experience__details'>
               <FaHandHoldingHeart className = 'experience__details-icon'/>
               <div>
-                <h4>Selfness</h4>
+                <h4>Selfless</h4>
                 <small className = 'text-light'>Willing to contribute</small>
               </div>
             </article>
@@ -107,7 +107,7 @@ const Experience = () => {
               <AiOutlineTeam className = 'experience__details-icon'/>
               <div>
                 <h4>Teamwork</h4>
-                <small className = 'text-light'>Copoerate with others</small>
+                <small className = 'text-light'>Cooperate with others</small>
               </div>
             </article>
             <article className = 'experience__details'>

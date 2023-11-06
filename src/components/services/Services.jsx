@@ -31,7 +31,7 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
-              <p>I'm Clarinet in senior jazz band</p>
+              <p>I'm clarinet in senior jazz band</p>
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
@@ -39,7 +39,7 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
-              <p>I'm Clarinet in concert band</p>
+              <p>I'm clarinet in concert band</p>
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
@@ -47,7 +47,7 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
-              <p>I'm Clarinet in chamber wind ensemble</p>
+              <p>I'm clarinet in chamber wind ensemble</p>
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
@@ -123,7 +123,7 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
-              <p>I joined Jt.James Seals swimming club</p>
+              <p>I joined St.James Seals swimming club</p>
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
@@ -135,7 +135,7 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>
-              <p>I joined school varsitt football team in grade 11</p>
+              <p>I joined school varsity football team in grade 11</p>
             </li>
             <li>
               <AiOutlineCheck className = 'service__list-icon'/>

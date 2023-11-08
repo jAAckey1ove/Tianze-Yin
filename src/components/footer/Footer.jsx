@@ -3,6 +3,7 @@ import './Footer.css'
 import {TbLetterP} from 'react-icons/tb'
 import {BsInstagram} from 'react-icons/bs'
 import {BsFillChatHeartFill} from 'react-icons/bs'
+import {AiOutlineMail} from 'react-icons/ai'
 
 const Footer = () => {
   return (
@@ -20,7 +21,7 @@ const Footer = () => {
       <div className = "footer__socials">
         <a href = "https://www.instagram.com/tianzeyin888/"><BsInstagram></BsInstagram></a>
         <a href = "https://www.stpauls.mb.ca"><TbLetterP/></a>
-        <a href = 'https://pornhub.com'><BsFillChatHeartFill></BsFillChatHeartFill></a>
+        <a href = 'mailto:yint25@gocrusaders.ca'><AiOutlineMail/></a>
       </div>
       <div className = 'lyf'>
         <a>This website is a rememberance of lyf</a>

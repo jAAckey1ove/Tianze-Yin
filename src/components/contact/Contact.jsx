@@ -36,8 +36,8 @@ const Contact = () => {
           <article className = 'contact__option'>
             <BsSnapchat className = 'contact__option-icon'/>
             <h4>Snapchat</h4>
-            <h5>tianze-yin</h5>
-            <a href = 'https://pornhub.com' target = '_blank'>send a message</a>
+            <h5>@tianze-yin</h5>
+            <h6>add me on snap</h6>
           </article>
           <article className = 'contact__option'>
             <AiFillInstagram className = 'contact__option-icon'/>

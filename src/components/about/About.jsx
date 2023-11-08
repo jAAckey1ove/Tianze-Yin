@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import JetEngine from '../../assets/JetEngine.avif'
+import airplane from '../../assets/90.jpg'
 import {AiOutlineRead} from 'react-icons/ai'
 import {FaAward} from 'react-icons/fa'
 import {GiAmericanFootballPlayer} from 'react-icons/gi'
@@ -12,8 +12,8 @@ const About = () => {
       <h2>About Me</h2>
       <div className = 'container, about__container'>
         <div className = 'about__me'>
-          <div className = 'JetEngine'>
-            <img src = {JetEngine} alt = 'About Image'/>
+          <div className = 'airplane'>
+            <img src = {airplane} alt = 'About Image'/>
           </div>
         </div>
 

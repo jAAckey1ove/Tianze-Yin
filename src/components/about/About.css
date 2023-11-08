@@ -4,11 +4,10 @@
     gap: 15%;
 }
 .about__me{
-    width: 28rem;
-    margin-left: 5rem;
-    aspect-ratio: 1/0.9;
+    width: 100%;
+    aspect-ratio: 1/1;
     border-radius: 2rem;
-    background:linear-gradient(
+    background: linear-gradient(
         45deg,
         transparent,
         var(--color-primary),
@@ -17,6 +16,13 @@
     display: grid;
     place-items: center;
 
+}
+.airplane{
+    border-radius: 2rem;
+    width: 30rem;
+    overflow: hidden;
+    transform: rotate(10deg);
+    transition: var(--transition);
 }
 .about__cards{
     display: grid;
@@ -40,20 +46,7 @@
     color: var(--color-light);
 
 }
-.JetEngine{
-    border-radius: 2rem;
-    width: 30rem;
-    height: 33rem;
-    position: absolute;
-    margin-left: 0rem;
-
-    margin-top: 12rem;
-
-    overflow: hidden;
-    transform: rotate(10deg);
-    transition: var(--transition);
-}
-.JetEngine:hover{
+.airplane:hover{
     transform: rotate(0deg);
 }
 

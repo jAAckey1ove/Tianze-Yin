@@ -16,17 +16,15 @@ nav{
 }
 
 nav a{
-    background: transparent;
-    padding: 0.9rem;
-    border-radius: 50%;
-    display: flex;
-    color: var(--color-light);
-    font-size: 1.1rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 0rem;
+    display: inline-block;
 }
-nav a:hover{
+/* nav a:hover{
     background: rgb(1, 60, 1);
 
-}
+} */
 nav a:active{
     background:  var(--color-bg);
     color: var(--color-bg);

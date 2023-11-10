@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/Tianze-Yin/static/css/main.ccc1ff81.css",
-    "main.js": "/Tianze-Yin/static/js/main.439beeb9.js",
+    "main.js": "/Tianze-Yin/static/js/main.4147a2da.js",
+    "static/media/myprotofolio.png": "/Tianze-Yin/static/media/myprotofolio.0038d878c182127422ef.png",
+    "static/media/Cayley honour roll.png": "/Tianze-Yin/static/media/Cayley honour roll.abcbe8ba3dc1b21a0f12.png",
     "static/media/PicofTianze.jpg": "/Tianze-Yin/static/media/PicofTianze.db5eeb5fd36b4b747939.jpg",
     "static/media/90.jpg": "/Tianze-Yin/static/media/90.cd4581c866a0237191ef.jpg",
     "static/media/JetEngine.avif": "/Tianze-Yin/static/media/JetEngine.ff30adcd924883f015dd.avif",
     "static/media/CV(example).docx": "/Tianze-Yin/static/media/CV(example).77fe62d1fdbdf2ea3846.docx",
     "index.html": "/Tianze-Yin/index.html",
     "main.ccc1ff81.css.map": "/Tianze-Yin/static/css/main.ccc1ff81.css.map",
-    "main.439beeb9.js.map": "/Tianze-Yin/static/js/main.439beeb9.js.map"
+    "main.4147a2da.js.map": "/Tianze-Yin/static/js/main.4147a2da.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc1ff81.css",
-    "static/js/main.439beeb9.js"
+    "static/js/main.4147a2da.js"
   ]
 }

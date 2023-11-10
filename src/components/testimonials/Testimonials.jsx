@@ -1,6 +1,6 @@
 import React from 'react'
 import './Testimonials.css'
-import AVTR1 from '../../assets/JetEngine.avif'
+import AVTR1 from '../../assets/Andrew.png'
 import AVTR2 from '../../assets/JetEngine.avif'
 import AVTR3 from '../../assets/JetEngine.avif'
 import AVTR4 from '../../assets/JetEngine.avif'
@@ -16,7 +16,7 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name:'John',
+    name:'Andrew Mainella',
     review: 'Tianze is a great man and genius'
   },
   {

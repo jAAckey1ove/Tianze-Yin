@@ -2,7 +2,7 @@ import React from 'react'
 import './Portfolio.css'
 import img1 from '../../assets/Cayley honour roll.png'
 import img2 from '../../assets/myprotofolio.png'
-import img3 from '../../assets/JetEngine.avif'
+import img3 from '../../assets/PaulyScreenShot.png'
 import img4 from '../../assets/JetEngine.avif'
 import img5 from '../../assets/JetEngine.avif'
 import img6 from '../../assets/JetEngine.avif'
@@ -26,7 +26,7 @@ const Portfolio = () => {
         </article>
         <article className = 'portfolio__item'>
           <div className = 'portfolio__item-image'>
-            <img src={img1} alt = ''/>
+            <img src={img3} alt = ''/>
           </div>
           <h3>"Digi text" program for the school</h3>
           <div className = 'portfolio__item-cta'>
@@ -35,11 +35,11 @@ const Portfolio = () => {
         </article>
         <article className = 'portfolio__item'>
           <div className = 'portfolio__item-image'>
-            <img src={img1} alt = ''/>
+            <img src={img3} alt = ''/>
           </div>
           <h3>"Pauly" website for the school</h3>
           <div className = 'portfolio__item-cta'>
-            <a href = '' className = 'btn btn-primary' target = '_blank'>Learn More</a>
+            <a href = 'https://paulysphs.ca' className = 'btn btn-primary' target = '_blank'>Learn More</a>
           </div>
         </article>
         <article className = 'portfolio__item'>

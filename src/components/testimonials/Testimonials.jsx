@@ -16,22 +16,22 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name:'Johnny Sins',
+    name:'John',
     review: 'Tianze is a great man and genius'
   },
   {
     avatar: AVTR2,
-    name:'Johnny Sins',
+    name:'John',
     review: 'Tianze is a great man and genius'
   },
   {
     avatar: AVTR3,
-    name:'Johnny Sins',
+    name:'John',
     review: 'Tianze is a great man and genius'
   },
   {
     avatar: AVTR4,
-    name:'Johnny Sins',
+    name:'John',
     review: 'Tianze is a great man and genius'
   },
 ]

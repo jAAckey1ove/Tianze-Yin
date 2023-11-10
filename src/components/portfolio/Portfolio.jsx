@@ -1,6 +1,6 @@
 import React from 'react'
 import './Portfolio.css'
-import img1 from '../../assets/JetEngine.avif'
+import img1 from '../../assets/Cayley honour roll.png'
 import img2 from '../../assets/JetEngine.avif'
 import img3 from '../../assets/JetEngine.avif'
 import img4 from '../../assets/JetEngine.avif'
@@ -21,7 +21,7 @@ const Portfolio = () => {
           </div>
           <h3>Cayley math contest honur roll</h3>
           <div className = 'portfolio__item-cta'>
-            <a href = 'https://www.cemc.uwaterloo.ca/contests/past_contests/2023/2023FGHResults.pdf' className = 'btn btn-primary' target = '_blank'>Learn More</a>
+            <a href = 'https://www.cemc.uwaterloo.ca/contests/past_contests/2023/2023CayleyResults.pdf' className = 'btn btn-primary' target = '_blank'>Learn More</a>
           </div>
         </article>
         <article className = 'portfolio__item'>

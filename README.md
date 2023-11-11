@@ -22,7 +22,7 @@ This section showed Tianze's high academic and athletic abilities.
 
 ### Curriculars
 
-Tianze not only focus on school but many activites outside of school and help others.
+Tianze not only focus on school but many activites outside of school and willing to help others.
 
 ### Accomplishments
 

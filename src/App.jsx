@@ -8,10 +8,14 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import './App.css'
 
 const App = () => {
   return (
     <div>
+      <div className = "note">
+        <p>Note: this website is still in develop. It is the best to view it with full screen on your laptop or desktop. Please contact me if something went wrong.</p>
+      </div>
         <Header />
         <Nav/>
         <About />

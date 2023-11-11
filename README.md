@@ -10,6 +10,8 @@ The website was updated on Nov. 12 2023.
 
 It is the first website that Tianze built only by himself.
 
+To view the website http://tianzeyin.github.io/Tianze-Yin
+
 ## Structure
 
 ### About

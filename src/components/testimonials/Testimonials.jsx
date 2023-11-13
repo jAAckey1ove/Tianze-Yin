@@ -7,9 +7,7 @@ import AVTR4 from '../../assets/JetEngine.avif'
 
 
 import {Pagination} from 'swiper/modules';
-
 import {Swiper, SwiperSlide} from 'swiper/react';
-
 import 'swiper/css';
 import 'swiper/css/pagination';
 
@@ -17,12 +15,12 @@ const data = [
   {
     avatar: AVTR1,
     name:'Andrew Mainella',
-    review: 'Tianze is a great man and genius'
+    review: 'Tianze is truly inspirational; having learned to code at a very young age, being remarkably intelligent and he is frequently the centre of attention. He consistently excels in everything he touches, be it in football or the Waterloo coding contests where he has demonstrated a remarkable prowess. Surely, there are more achievements to come with his leadership and coding experience!'
   },
   {
     avatar: AVTR2,
-    name:'John',
-    review: 'Tianze is a great man and genius'
+    name:'Cari Friesen',
+    review: 'Tianze has a brilliant math mind, and is ready to take on math challenges!'
   },
   {
     avatar: AVTR3,

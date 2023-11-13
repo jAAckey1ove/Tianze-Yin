@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div>
       <div className = "note">
-        <p>Note: this website is still in develop. It is the best to view it with full screen on your laptop or desktop. Please contact me if something went wrong.</p>
+        <p>Note: this website is still developing. It is the best to view it with full screen on your laptop or desktop. Please contact me if something went wrong.</p>
       </div>
         <Header />
         <Nav/>

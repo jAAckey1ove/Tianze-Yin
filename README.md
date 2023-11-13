@@ -1,6 +1,6 @@
 # Hello I'm Tianze Yin
 
-Thank you for visiting my protofolio code.
+Thank you for visiting my portfolio code.
 
 ## The Future
 
@@ -16,7 +16,7 @@ To view the website http://tianzeyin.github.io/Tianze-Yin
 
 ### About
 
-The about me section is a brief description of Tianze Yin.
+The About Me section is a brief description of Tianze Yin.
 
 ### Abilities
 
@@ -24,11 +24,11 @@ This section showed Tianze's high academic and athletic abilities.
 
 ### Curriculars
 
-Tianze not only focus on school but many activites outside of school and willing to help others.
+Tianze not only focuses on school but also many activities outside of school and is willing to help others.
 
 ### Accomplishments
 
-Tianze is an outstanding scholar and programmer who contributed his coding abilities for 2 programs for his school.
+Tianze is an outstanding scholar and programmer who contributed his coding abilities to 2 programs for his school.
 
 ## In the End
 

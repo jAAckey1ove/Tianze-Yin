@@ -1,8 +1,8 @@
 import React from 'react'
 import './Testimonials.css'
 import AVTR1 from '../../assets/Andrew.png'
-import AVTR2 from '../../assets/JetEngine.avif'
-import AVTR3 from '../../assets/JetEngine.avif'
+import AVTR2 from '../../assets/mrcook.png'
+import AVTR3 from '../../assets/mrcook.png'
 import AVTR4 from '../../assets/JetEngine.avif'
 
 
@@ -19,18 +19,18 @@ const data = [
   },
   {
     avatar: AVTR2,
-    name:'Cari Friesen',
-    review: 'Tianze has a brilliant math mind, and is ready to take on math challenges!'
+    name:'Mrs. Karen Latimer',
+    review: 'Tianze excels in coding and problem-solving, consistently showcasing a deep understanding of algorithms and data structures. Their ability to tackle complex problems with ingenuity and efficiency sets them apart.'
   },
   {
     avatar: AVTR3,
-    name:'John',
-    review: 'Tianze is a great man and genius'
+    name:'Mr. Jared Cook',
+    review: 'In AP Physics, Tianze has shown himself to be a critical thinker with strong mathematical skills and conceptual understanding.'
   },
   {
     avatar: AVTR4,
-    name:'John',
-    review: 'Tianze is a great man and genius'
+    name:'Mrs. Cari Friesen',
+    review: 'Tianze has a brilliant math mind, and is ready to take on math challenges!'
   },
 ]
 

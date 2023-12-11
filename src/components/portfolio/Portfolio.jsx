@@ -4,7 +4,7 @@ import img1 from '../../assets/Cayley honour roll.png'
 import img2 from '../../assets/myprotofolio.png'
 import img3 from '../../assets/Pualysceenshot.png'
 import img4 from '../../assets/coming-soon-1.jpg'
-import img5 from '../../assets/JetEngine.avif'
+import img5 from '../../assets/digitext.png'
 import img6 from '../../assets/JetEngine.avif'
 
 
@@ -26,7 +26,7 @@ const Portfolio = () => {
         </article>
         <article className = 'portfolio__item'>
           <div className = 'portfolio__item-image'>
-            <img src={img3} alt = ''/>
+            <img src={img5} alt = ''/>
           </div>
           <h3>"Digi text" program for the school</h3>
           <div className = 'portfolio__item-cta'>

@@ -23,9 +23,6 @@ const Footer = () => {
         <a href = "https://www.stpauls.mb.ca"><TbLetterP/></a>
         <a href = 'mailto:yint25@gocrusaders.ca'><AiOutlineMail/></a>
       </div>
-      <div className = 'lyf'>
-        <a>This website is a rememberance of lyf</a>
-      </div>
       <div className = 'footer__copyright'>
         <small>&copy; TianzeYin Profile. All rights reserved.</small>
       </div>

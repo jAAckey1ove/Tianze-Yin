@@ -3,7 +3,7 @@ import './Portfolio.css'
 import img1 from '../../assets/Cayley honour roll.png'
 import img2 from '../../assets/myprotofolio.png'
 import img3 from '../../assets/Pualysceenshot.png'
-import img4 from '../../assets/coming-soon-1.jpg'
+import img4 from '../../assets/valentine.png'
 import img5 from '../../assets/digitext.png'
 import img6 from '../../assets/JetEngine.avif'
 
@@ -55,9 +55,9 @@ const Portfolio = () => {
           <div className = 'portfolio__item-image'>
             <img src={img4} alt = ''/>
           </div>
-          <h3>It's coming soon!</h3>
+          <h3>A program to be him</h3>
           <div className = 'portfolio__item-cta'>
-            <a href = '' className = 'btn btn-primary' target = '_blank'>Learn More</a>
+            <a href = 'https://tianzeyin.github.io/teresa/' className = 'btn btn-primary' target = '_blank'>Learn More</a>
           </div>
         </article>
         <article className = 'portfolio__item'>

@@ -5,7 +5,7 @@ import img2 from '../../assets/myprotofolio.png'
 import img3 from '../../assets/Pualysceenshot.png'
 import img4 from '../../assets/valentine.png'
 import img5 from '../../assets/digitext.png'
-import img6 from '../../assets/JetEngine.avif'
+import img6 from '../../assets/student council.png'
 
 
 const Portfolio = () => {
@@ -62,11 +62,11 @@ const Portfolio = () => {
         </article>
         <article className = 'portfolio__item'>
           <div className = 'portfolio__item-image'>
-            <img src={img4} alt = ''/>
+            <img src={img6} alt = ''/>
           </div>
-          <h3>It's coming soon!</h3>
+          <h3>Student council website</h3>
           <div className = 'portfolio__item-cta'>
-            <a href = '' className = 'btn' target = '_blank'>Learn More</a>
+            <a href = 'https://tianzeyin.github.io/mewing-academy/' className = 'btn' target = '_blank'>Learn More</a>
           </div>
         </article>
       </div>
